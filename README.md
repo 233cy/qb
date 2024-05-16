@@ -20,6 +20,8 @@
 本人是用群晖nas，群晖nas自行百度web Station如何增加php站点(https://post.smzdm.com/p/am3dd6wz/)
 你只需要把这个php文件仍在php环境中，然后通过http访问即可。
 
+实在不会运行，你就百度你的环境中如何访问php文件，注意是通过web访问php文件，不是通过php-cli来访问php脚本。
+
 ：：：docker：：：
 你只需要pull一个php环境就可以，直接运行这个脚本（具体可百度）
 
